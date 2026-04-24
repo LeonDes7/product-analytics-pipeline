@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: product_analytics
+    database: amazing-thought-494110-b8
+    schema: product_analytics
+    tables:
+      - name: raw_events
+      - name: raw_users

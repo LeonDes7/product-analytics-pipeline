@@ -1,0 +1,11 @@
+venv/
+data/
+.env
+__pycache__/
+*.pyc
+gcp_credentials.json
+dbt_project/target/
+dbt_project/dbt_packages/
+dbt_project/logs/
+.dbt/
+logs/
